@@ -1,1 +1,2 @@
 "This is my project.txt file" 
+"Changes made by another team member"
